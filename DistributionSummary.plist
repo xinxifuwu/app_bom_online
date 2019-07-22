@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>jzfy.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CBC096C131262E457842DC35714C5E58E3810EA7</string>
+				<key>dateExpires</key>
+				<string>2022/7/15</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>CBC096C131262E457842DC35714C5E58E3810EA7</string>
+						<key>dateExpires</key>
+						<string>2022/7/15</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6XCZ433574</string>
+						<key>name</key>
+						<string>Jiuzhou Industrial Holdings Group Co, Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>CBC096C131262E457842DC35714C5E58E3810EA7</string>
+						<key>dateExpires</key>
+						<string>2022/7/15</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6XCZ433574</string>
+						<key>name</key>
+						<string>Jiuzhou Industrial Holdings Group Co, Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6XCZ433574.com.jzfy.app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6XCZ433574</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>6XCZ433574.com.jzfy.app</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>jzfy.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1a23871f-da27-4c08-b22e-78ea314d8089</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.jzfy.app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6XCZ433574</string>
+				<key>name</key>
+				<string>Jiuzhou Industrial Holdings Group Co, Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
