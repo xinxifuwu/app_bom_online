@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>http://was.jzfyjt.com/download/jzfy.ipa</string>
+		<string>http://was.jzfyjt.com:1717/download/jzfy.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/xinxifuwu/app_bom_online/master/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
